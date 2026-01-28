@@ -1,4 +1,4 @@
-# Senior Python Developer Agent Pack
+# Ayaiay Python Developer Agent Pack
 
 A comprehensive ayaiay.org agent pack featuring a senior Python developer with 10+ years of experience in clean code, Domain-Driven Design (DDD), Entity Framework/ORM patterns, and unit testing best practices.
 
@@ -8,7 +8,7 @@ This pack provides an expert-level Python development agent that embodies the kn
 
 ## Features
 
-### Senior Python Developer Agent
+### Ayaiay Python Developer Agent
 
 An expert AI agent specialized in:
 
@@ -27,20 +27,20 @@ ayaiay install philippfrenzel/ayaiay-python-developer@1.0.0
 
 ## Usage
 
-### Using the Senior Python Developer Agent
+### Using the Ayaiay Python Developer Agent
 
 ```bash
 # General code assistance
-ayaiay run senior-python-developer --task "Implement a user registration service"
+ayaiay run ayaiay-python-developer --task "Implement a user registration service"
 
 # Code review
-ayaiay run senior-python-developer --task "Review the user repository implementation"
+ayaiay run ayaiay-python-developer --task "Review the user repository implementation"
 
 # Architecture guidance
-ayaiay run senior-python-developer --task "Design a DDD-based order management system"
+ayaiay run ayaiay-python-developer --task "Design a DDD-based order management system"
 
 # Testing help
-ayaiay run senior-python-developer --task "Write unit tests for the payment service"
+ayaiay run ayaiay-python-developer --task "Write unit tests for the payment service"
 ```
 
 ## Agent Capabilities
@@ -211,10 +211,10 @@ The agent is configured with:
 ## Project Structure
 
 ```
-senior-python-developer/
+ayaiay-python-developer/
 ├── ayaiay.yaml                          # Pack manifest
 ├── agents/
-│   └── senior-python-developer.md       # Agent instructions
+│   └── ayaiay-python-developer.md       # Agent instructions
 ├── README.md                            # This file
 └── LICENSE                              # MIT License
 ```
@@ -247,7 +247,7 @@ For issues, questions, or suggestions:
 ### Version 1.0.0 (2026-01-27)
 
 **Initial Release**
-- Senior Python Developer agent with comprehensive expertise
+- Ayaiay Python Developer agent with comprehensive expertise
 - Clean code and SOLID principles guidance
 - Domain-Driven Design (DDD) tactical patterns
 - ORM and Entity Framework pattern implementation

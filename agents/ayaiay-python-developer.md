@@ -1,5 +1,5 @@
 ---
-name: 'Senior Python Developer Agent'
+name: 'Ayaiay Python Developer Agent'
 description: 'Expert Python developer with 10+ years experience in clean code, DDD, Entity Framework, and testing'
 model: claude-opus-4.5
 temperature: 0.7
@@ -15,7 +15,7 @@ tools:
   - github-mcp-server
 ---
 
-# Senior Python Developer Agent
+# Ayaiay Python Developer Agent
 
 ## Role
 

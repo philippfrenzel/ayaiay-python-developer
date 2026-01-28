@@ -22,7 +22,7 @@ An expert AI agent specialized in:
 ## Installation
 
 ```bash
-ayaiay install philippfrenzel/ayaiay-python-developer@1.0.0
+ayaiay install philippfrenzel/senior-python-developer@1.0.0
 ```
 
 ## Usage
@@ -211,7 +211,7 @@ The agent is configured with:
 ## Project Structure
 
 ```
-senior-python-developer/
+ayaiay-python-developer/
 ├── ayaiay.yaml                          # Pack manifest
 ├── agents/
 │   └── senior-python-developer.md       # Agent instructions
@@ -247,7 +247,7 @@ For issues, questions, or suggestions:
 ### Version 1.0.0 (2026-01-27)
 
 **Initial Release**
-- Senior Python Developer agent with comprehensive expertise
+- Ayaiay Python Developer agent with comprehensive expertise
 - Clean code and SOLID principles guidance
 - Domain-Driven Design (DDD) tactical patterns
 - ORM and Entity Framework pattern implementation

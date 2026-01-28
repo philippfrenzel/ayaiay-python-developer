@@ -3,7 +3,7 @@ kind: Pack
 metadata:
   name: senior-python-developer
   version: 1.0.0
-  description: A senior Python developer agent with 10+ years of experience in clean code, DDD, Entity Framework, and unit testing
+  description: A senior Python developer agent with 10+ years of experience in clean code, DDD and unit testing
   author: Philipp Frenzel
   license: MIT
   repository: https://github.com/philippfrenzel/ayaiay-python-developer
@@ -14,7 +14,6 @@ metadata:
     - ddd
     - domain-driven-design
     - testing
-    - entity-framework
     - orm
     - best-practices
     - code-quality

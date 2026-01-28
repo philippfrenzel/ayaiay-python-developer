@@ -1,12 +1,12 @@
 apiVersion: v1
 kind: Pack
 metadata:
-  name: ayaiay-python-developer
+  name: senior-python-developer
   version: 1.0.0
   description: A senior Python developer agent with 10+ years of experience in clean code, DDD, Entity Framework, and unit testing
   author: Philipp Frenzel
   license: MIT
-  repository: https://github.com/philippfrenzel/ayaiay-python-developer
+  repository: https://github.com/philippfrenzel/senior-python-developer
   tags:
     - python
     - senior-developer
@@ -22,10 +22,10 @@ metadata:
 spec:
   # Agent Profiles
   agents:
-    - name: ayaiay-python-developer
+    - name: senior-python-developer
       type: github-copilot-agent
       description: Expert Python developer with deep knowledge of clean code, DDD, ORM patterns, and testing best practices
-      instructions: ./agents/ayaiay-python-developer.md
+      instructions: ./agents/senior-python-developer.md
       config:
         model: claude-opus-4.5
         temperature: 0.7

@@ -1,4 +1,4 @@
-# Ayaiay Python Developer Agent Pack
+# Senior Python Developer Agent Pack
 
 A comprehensive ayaiay.org agent pack featuring a senior Python developer with 10+ years of experience in clean code, Domain-Driven Design (DDD), Entity Framework/ORM patterns, and unit testing best practices.
 
@@ -8,7 +8,7 @@ This pack provides an expert-level Python development agent that embodies the kn
 
 ## Features
 
-### Ayaiay Python Developer Agent
+### Senior Python Developer Agent
 
 An expert AI agent specialized in:
 
@@ -22,25 +22,25 @@ An expert AI agent specialized in:
 ## Installation
 
 ```bash
-ayaiay install philippfrenzel/ayaiay-python-developer@1.0.0
+ayaiay install philippfrenzel/senior-python-developer@1.0.0
 ```
 
 ## Usage
 
-### Using the Ayaiay Python Developer Agent
+### Using the Senior Python Developer Agent
 
 ```bash
 # General code assistance
-ayaiay run ayaiay-python-developer --task "Implement a user registration service"
+ayaiay run senior-python-developer --task "Implement a user registration service"
 
 # Code review
-ayaiay run ayaiay-python-developer --task "Review the user repository implementation"
+ayaiay run senior-python-developer --task "Review the user repository implementation"
 
 # Architecture guidance
-ayaiay run ayaiay-python-developer --task "Design a DDD-based order management system"
+ayaiay run senior-python-developer --task "Design a DDD-based order management system"
 
 # Testing help
-ayaiay run ayaiay-python-developer --task "Write unit tests for the payment service"
+ayaiay run senior-python-developer --task "Write unit tests for the payment service"
 ```
 
 ## Agent Capabilities

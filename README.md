@@ -214,7 +214,7 @@ The agent is configured with:
 ayaiay-python-developer/
 ├── ayaiay.yaml                          # Pack manifest
 ├── agents/
-│   └── ayaiay-python-developer.md       # Agent instructions
+│   └── senior-python-developer.md       # Agent instructions
 ├── README.md                            # This file
 └── LICENSE                              # MIT License
 ```
